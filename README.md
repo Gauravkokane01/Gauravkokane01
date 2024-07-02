@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **J2SE , React , HTML , CSS , J2EE,**
 
-- 📫 How to reach me **kokane8793@gmail.com**
+- 📫 How to reach me **kokanegaurav8793@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
